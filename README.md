@@ -4,7 +4,7 @@
 
 This repository contains a migrated version of the original project.
 
-The project was initially developed on a previous GitHub account after losing access to it. To continue development, the repository has been recreated here with some cleanup and improvements.
+The project was initially developed on a previous GitHub-account[https://github.com/AliJ-Official] after losing access to it. To continue development, the repository has been recreated here with some cleanup and improvements.
 
 All future updates and maintenance will be made in this repository.
 
