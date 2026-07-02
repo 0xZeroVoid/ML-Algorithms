@@ -1,5 +1,15 @@
 # Machine Learning Algorithms from Scratch
 
+## Repository Status
+
+This repository contains a migrated version of the original project.
+
+The project was initially developed on a previous GitHub account that is no longer accessible. To continue development, the repository has been recreated here with some cleanup and improvements.
+
+All future updates and maintenance will be made in this repository.
+
+---
+
 ## Overview
 
 This repository is a **long-term, evolving project** focused on implementing Machine Learning algorithms **from scratch** and **with optimized/library-based approaches** side by side.
@@ -30,8 +40,7 @@ This repository will be updated over time as new algorithms, datasets, benchmark
 * Algorithms are implemented incrementally
 * Structure may evolve as the project grows
 
-This repository is intended as a **learning-oriented and experimental codebase**,  
-not a production-ready ML framework.
+This repository is intended as a **learning-oriented and experimental codebase**, not a production-ready ML framework.
 
 ---
 
@@ -40,15 +49,20 @@ not a production-ready ML framework.
 The repository is organized by learning paradigm and algorithm family:
 
 * `supervised/`
+
   * Classification algorithms (e.g. KNN)
 * `unsupervised/`
+
   * Clustering algorithms (e.g. K-Means)
 * `datasets/`
+
   * Synthetic datasets used for benchmarks
 * `benchmarks/`
+
   * Lightweight benchmark scripts for performance comparison
 
 Each algorithm typically includes:
+
 * A **pure Python** implementation
 * An **optimized** (NumPy-based) implementation
 * A **scikit-learn reference** wrapper (when applicable)
@@ -75,12 +89,6 @@ They are **not** intended as definitive performance measurements.
 
 ---
 
-## Status
-
-🚧 Actively evolving — expect frequent changes, refactors, and new additions.
-
----
-
 ## Notes
 
 * Some sections or directories may be empty or incomplete at times
@@ -92,7 +100,4 @@ They are **not** intended as definitive performance measurements.
 
 ## License
 
-
 [MIT License](LICENSE)
-
-
